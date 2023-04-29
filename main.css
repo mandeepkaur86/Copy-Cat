@@ -1,0 +1,64 @@
+main
+{
+    background-color: lightgray;
+    padding: 10px;
+    color: black;
+}
+
+main h1{
+    color: red;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+main h2{
+    color: red;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav li {
+    display: inline;
+    padding: 10px;
+    color: red;
+}
+
+nav{
+    text-align: center;
+    display: block;
+    /* eh new css hai*/
+}
+nav{
+    position:sticky;
+    top:0px;
+}
+
+nav li {
+    color: red;
+}
+
+.header{
+width: 100%;
+}
+
+.footer
+{
+    width: 100%;
+    background-color: red;
+    text-align: center;  
+    color: black;
+}
+
+.headerImg
+{
+    display: inline;
+    width: 20%;
+    float:left;
+    padding: 10px;
+    height: 20px;
+}
+.menu
+{
+    display: inline;
+    width: 80%;
+    float: right;
+    height: 20px;
+}
